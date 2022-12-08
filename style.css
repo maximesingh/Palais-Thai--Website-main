@@ -216,7 +216,7 @@ footer .copyRight p {
 
 /* Responsive design */
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 428px) {
     body {
         margin: 0;
         padding: 0;
